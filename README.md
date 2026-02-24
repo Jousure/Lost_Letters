@@ -1,4 +1,4 @@
-# 💌 Lost Letters – Tragic Love Edition
+# ✉️ Lost Letters – Tragic Edition
 
 ## 🌟 Overview
 
