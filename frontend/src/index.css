@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Special Elite', monospace;
+  background-color: #f9f5ec;
+  color: #3b2f2f;
+}
+
+.bg-parchment {
+  background: linear-gradient(to bottom right, #fdf6e3, #f5ecd3);
+  color: #4b3e2f;
+  box-shadow: 0 0 15px rgba(139, 69, 19, 0.2), inset 0 0 5px rgba(139, 69, 19, 0.1);
+  border: 1px solid #e0d2b6;
+}
+
+.border-brownLight {
+  border-color: #d8c8a6;
+}
+
+.text-brownDark {
+  color: #5c4a2d;
+}
+
+.text-brownLight {
+  color: #8b7b5e;
+}
+
+.text-textBrown {
+  color: #4b3e2f;
+}
+
+/* Optional: Elegant handwriting style */
+.font-handwritten {
+  font-family: 'Zeyada', cursive;
+}
