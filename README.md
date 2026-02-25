@@ -1,10 +1,14 @@
 # ✉️ Lost Letters – Tragic Edition
 
+<img width="693" height="69" alt="Screenshot 2026-02-25 154721" src="https://github.com/user-attachments/assets/d95ee2c4-ab2c-4d05-aead-0e52f8e71522" />
+
 ## 🌟 Overview
 
 **Lost Letters** is a full-stack web application that delivers vintage-style fictional love letters centered around tragic romance, longing, and separation.
 
 The backend provides a REST API built with **FastAPI**, and the frontend is developed using **React**. The project focuses exclusively on emotional, old-world tragic love letters presented through a clean and nostalgic interface.
+
+<img width="787" height="187" alt="Screenshot 2026-02-25 154736" src="https://github.com/user-attachments/assets/2ac61813-2f33-4e74-ba53-4b58d5ed4a54" />
 
 ---
 
