@@ -1,6 +1,6 @@
 # ✉️ Lost Letters – Tragic Edition
 
-<img width="693" height="69" alt="Screenshot 2026-02-25 154721" src="https://github.com/user-attachments/assets/d95ee2c4-ab2c-4d05-aead-0e52f8e71522" />
+<img width="371" height="72" alt="Screenshot 2026-02-25 154714" src="https://github.com/user-attachments/assets/a16de21b-08de-44b4-a1ba-a5df929ab6fc" />
 
 ## 🌟 Overview
 
